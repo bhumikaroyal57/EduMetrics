@@ -1,0 +1,6 @@
+{
+  "name": "EduMetrics - Academic Records & Analytics",
+  "description": "Student academic records management, MySQL-aligned relational schema, statistical marks analysis, subject performance, toppers, and academic support tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
